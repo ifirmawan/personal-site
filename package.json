@@ -1,0 +1,28 @@
+{
+  "name": "personal-site",
+  "version": "1.0.0",
+  "description": "Iwan Firmawan personal site. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifirmawan/personal-site.git"
+  },
+  "keywords": [
+    "personal-site",
+    "portofolio"
+  ],
+  "author": "Iwan Firmawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifirmawan/personal-site/issues"
+  },
+  "homepage": "https://github.com/ifirmawan/personal-site#readme",
+  "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "postcss": "^8.2.2",
+    "tailwindcss": "^2.0.2"
+  }
+}
